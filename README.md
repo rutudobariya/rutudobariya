@@ -1,5 +1,4 @@
 
-README
 👋 Hey, I'm Rutu dobariya!
 
 🌟 React.js enthusiast crafting smooth and beautiful user interfaces.

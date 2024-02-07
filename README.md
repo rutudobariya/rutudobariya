@@ -12,5 +12,6 @@
 📫 Reach me via email or LinkedIn. Check out my work here :https://portfliorutu.netlify.app/
 
 Let's create magic through code! ✨
+![](https://github-readme-stats.vercel.app/api?username=rutudobariya&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rutudobariya&layout=compact)

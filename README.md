@@ -12,6 +12,5 @@ gq
 📫 Reach me via email or LinkedIn. Check out my work here :https://portfliorutu.netlify.app/
 
 # 📊 GitHub Stats:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rutudobariya&layout=compact)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jatin-Panesiya&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rutudobariya&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
